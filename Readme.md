@@ -5,4 +5,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Unexpectedlyc/ckey.run--offline-activation-jetbrains,Unexpectedlyc/target_track&type=Date)](https://www.star-history.com/#Unexpectedlyc/ckey.run--offline-activation-jetbrains&Unexpectedlyc/target_track&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Unexpectedlyc/target_track&type=Date)](https://www.star-history.com/#Unexpectedlyc/target_track&Date)
