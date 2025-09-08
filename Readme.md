@@ -152,3 +152,7 @@ DeepSORT 算法实现，包括：
 - 🔢 每个目标的唯一 ID
 - 📊 当前画面中目标总数
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Unexpectedlyc/target_track&type=Date)](https://www.star-history.com/#Unexpectedlyc/target_track&Date)
+
